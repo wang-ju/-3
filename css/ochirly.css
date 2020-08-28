@@ -1,0 +1,36 @@
+.container-fluid{
+	padding: 0;
+	background-color:#F5F5F5;
+}
+.logo_1{
+	font-size:46px;
+	font-weight: bold;
+	font-family: 'Microsoft Yahei';
+}
+
+.sina .baidu:hover{
+	border-bottom: 1px solid #ededed;
+	background-position:center;
+	background-size: 28px;
+}
+.text_1{
+	padding-top:62px;
+	font-size:2px;
+}
+.text_2{
+	font-size:2px;
+}
+.bg{
+	background: url(../img/01.jpg) no-repeat ;
+	width: 100%;height: 100%;
+}
+.tu_1{
+	margin-left:14.5%;
+}
+
+
+
+
+
+
+
